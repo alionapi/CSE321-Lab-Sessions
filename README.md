@@ -1,5 +1,3 @@
-# CSE321-Lab-Sessions
-
 # CSE321 – Database Systems: Lab Session Reports
 
 **Aliona Pirozhenko (20232008)**  
