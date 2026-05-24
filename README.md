@@ -69,14 +69,13 @@ CSE321-Lab-Session/
 │
 ├── README.md
 │
-├── CSE321_Lab1_report.pdf
-│
-└── CSE321_Lab2_report.pdf
-│
 ├── CSE321-lab-session1-manual.pdf
 │
 └── CSE321-lab-session2-manual.pdf
-
+│
+├── CSE321_Lab1_report.pdf
+│
+└── CSE321_Lab2_report.pdf
 
 ```
 
