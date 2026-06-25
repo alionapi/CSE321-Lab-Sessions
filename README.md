@@ -12,7 +12,8 @@ The reports are not simply presentations of correct answers they document the or
 
 **Topic:** Entity-Relationship (ER) Modelling in Chen's Notation
 
-The in-class task required constructing an ER diagram from a written specification describing the data requirements of a university system. The system covers four groups of people (professors, staff, students, and stakeholders), two types of staff (tech staff and admin staff, with admin managers as a further subtype), two types of students (undergraduate and graduate), a laboratory system with equipment, courses, supervision relationships, and stakeholder comments.
+The in-class task required constructing an ER diagram from a written specification describing the data requirements of a university system. 
+The system covers four groups of people (professors, staff, students, and stakeholders), two types of staff (tech staff and admin staff, with admin managers as a further subtype), two types of students (undergraduate and graduate), a laboratory system with equipment, courses, supervision relationships, and stakeholder comments.
 
 **What the report covers:**
 
