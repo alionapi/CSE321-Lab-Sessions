@@ -3,7 +3,8 @@
 ## Overview
 
 This repository contains the individual lab session reports for **CSE321 Database Systems** at UNIST. 
-Each lab session involved an in-class design exercise followed by a written reflective report. The reports are not simply presentations of correct answers — they document the original in-class work honestly, analyse the mistakes made, explain the reasoning behind them, and present a fully corrected design with step-by-step justification.
+Each lab session involved an in-class design exercise followed by a written reflective report. 
+The reports are not simply presentations of correct answers — they document the original in-class work honestly, analyse the mistakes made, explain the reasoning behind them, and present a fully corrected design with step-by-step justification.
 
 ---
 
